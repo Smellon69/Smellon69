@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Smellon69/Smellon69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Smellon** - full-time code paster / cat aficionado.
 
-Here are some ideas to get you started:
+* 🛠️  Favourite toolchain: MSVC 😈
+* 🎯  Currently exploring nothing, as I have attained all possible information
+* 🐱  Cat picture connoisseur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "A ship in harbor is safe, but that is not what ships are built for."
+> - *J. A. Shedd*
+
+## 🔍 Some of my projects
+
+| Repo                                                                            | What it is                                              | Tech        |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------- |
+| **[SimpleConfig](https://github.com/Smellon69/SimpleConfig)**                   | Lightweight C++20 configuration library                 | C++20       |
+| **[ImGuiBase](https://github.com/Smellon69/ImGuiBase)**                         | Modern Dear ImGui base in .dll form (it is horrible)    | C++ · ImGui |
+| **[exception‑based‑comms](https://github.com/Smellon69/exception-based-comms)** | Proof-of-concept IPC benchmark using Windows exceptions | C++         |
+
+## 📊 Stats
+
+![Smellon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Smellon69\&show_icons=true\&hide_title=true\&include_all_commits=true\&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smellon69\&layout=compact\&theme=transparent)
+
+---
+
+*Choice. The problem is choice.*
