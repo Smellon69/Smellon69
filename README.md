@@ -4,7 +4,7 @@ I’m **Smellon** - full-time code paster / cat aficionado.
 
 * 🛠️  Favourite toolchain: MSVC 😈
 * 🎯  Currently exploring nothing, as I have attained all possible information
-* ❔  Still compiling... check back later
+* ❔  Majoring in Computer Science
 
 > "A ship in harbor is safe, but that is not what ships are built for."
 > - *J. A. Shedd*
