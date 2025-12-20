@@ -16,7 +16,7 @@ I’m **Smellon** - full-time code paster / cat aficionado.
 | **[SimpleConfig](https://github.com/Smellon69/SimpleConfig)**                   | Lightweight C++20 configuration library                 | C++20       |
 | **[ImGuiBase](https://github.com/Smellon69/ImGuiBase)**                         | Modern Dear ImGui base in .dll form (it is horrible)    | C++ · ImGui |
 | **[exception‑based‑comms](https://github.com/Smellon69/exception-based-comms)** | Proof-of-concept IPC benchmark using Windows exceptions | C++         |
-| **[aurora-sigma-aead](https://github.com/Smellon69/aurora-sigma-aead)**         | Fully custom post-quantum cipher, stronger then AES-256 | C           |
+| **[aurora-sigma-aead](https://github.com/Smellon69/aurora-sigma-aead)**         | Fully custom post-quantum cipher, stronger than AES-256 | C           |
 
 ## 📊 Stats
 
