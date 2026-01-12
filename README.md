@@ -17,13 +17,7 @@
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smellon69&show_icons=true&hide_title=true&theme=dark" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smellon69&layout=compact&theme=dark" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Smellon69&theme=dark&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Smellon69?theme=dark" height="180" alt="GitHub Stats" />
 </div>
 
 ---
