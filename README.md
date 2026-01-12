@@ -14,11 +14,17 @@
 | **aurora-sigma-aead** | Custom post-quantum encryption scheme stronger than AES-256. | C / Crypto |
 | **exception-based-comms** | High-performance Windows IPC using exception handling. | Windows Internals |
 
-## 📊 Stats
+<h2 align="center">📊 Stats</h2>
 
-![Smellon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Smellon69&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smellon69&show_icons=true&hide_title=true&theme=dark" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smellon69&layout=compact&theme=dark" height="180" alt="Top Languages" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smellon69&layout=compact&theme=transparent)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Smellon69&theme=dark&hide_border=true" height="180" alt="Streak Stats" />
+</div>
 
 ---
 
