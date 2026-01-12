@@ -1,22 +1,18 @@
-# Hi there 👋
+# Hi there 👋
 
-I’m **Smellon** - full-time code paster / cat aficionado.
+**I'm Smellon - Security Engineer & C++ Specialist.**
 
-* 🛠️  Favourite toolchain: MSVC 😈
-* 🎯  Currently exploring nothing, as I have attained all possible information
-* ❔  Majoring in Computer Science
+* 🛠 Favourite toolchain: MSVC / Clang
+* 🔭 Currently developing **Nexyn** (Software Licensing & Protection)
+* 🎓 Majoring in Computer Science
 
-> "A ship in harbor is safe, but that is not what ships are built for."
-> - *J. A. Shedd*
+> "Security is not a product, but a process." — Bruce Schneier
 
-## 🔍 Some of my projects
-
-| Repo                                                                            | What it is                                              | Tech        |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------- |
-| **[SimpleConfig](https://github.com/Smellon69/SimpleConfig)**                   | Lightweight C++20 configuration library                 | C++20       |
-| **[ImGuiBase](https://github.com/Smellon69/ImGuiBase)**                         | Modern Dear ImGui base in .dll form (it is horrible)    | C++ · ImGui |
-| **[exception‑based‑comms](https://github.com/Smellon69/exception-based-comms)** | Proof-of-concept IPC benchmark using Windows exceptions | C++         |
-| **[aurora-sigma-aead](https://github.com/Smellon69/aurora-sigma-aead)**         | Fully custom post-quantum cipher, stronger then AES-256 | C           |
+## 🔍 Featured Work
+| Repo | Description | Tech |
+| :--- | :--- | :--- |
+| **aurora-sigma-aead** | Custom post-quantum encryption scheme stronger than AES-256. | C / Crypto |
+| **exception-based-comms** | High-performance Windows IPC using exception handling. | Windows Internals |
 
 ## 📊 Stats
 
