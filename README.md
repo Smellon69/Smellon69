@@ -13,6 +13,7 @@
 | :--- | :--- | :--- |
 | **aurora-sigma-aead** | Custom post-quantum encryption scheme stronger than AES-256. | C / Crypto |
 | **exception-based-comms** | High-performance Windows IPC using exception handling. | Windows Internals |
+| **synack** | Great example of a C++ server framework with proper encryption. | C++ / Networking |
 
 <h2 align="center">📊 Stats</h2>
 
