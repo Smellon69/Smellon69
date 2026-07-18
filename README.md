@@ -5,7 +5,7 @@ Currently living in GCC / CMake land.
 
 ### What I'm building right now
 **[Nexyn](https://nexyn.net)**: Server-side software protection & licensing infrastructure.
-> A massive C++23 backend (Drogon, Postgres, Redis) that handles everything securely on our infra. Cloud-based binary security, control-flow obfuscation, and anti-debug/anti-VM, proprietary server-sided encryption methods for your software, and much more. The same backend manages DRM, secure API relays, and FIPS 140-2 compliance(and we comply to A LOT more).
+> A massive C++23 backend (Drogon, Postgres, Redis) that handles everything securely on our infra. Cloud-based binary security, control-flow obfuscation, and proprietary server-sided runtime encryption methods for your software, as well as much more. The same backend manages DRM, secure API relays, and FIPS 140-2 compliance(and we comply to A LOT more).
 
 ### Open Source / Experiments
 | Repo | What it is | Tech |
