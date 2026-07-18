@@ -1,26 +1,15 @@
-# Hi there 👋
+# Smellon
+Security engineering & low-level C++. CS student.
 
-**I'm Smellon - Security Engineer & C++ Specialist.**
+Currently living in GCC / CMake land.
 
-* 🛠 Favourite toolchain: MSVC / Clang
-* 🔭 Currently developing **Nexyn** (Software Licensing & Protection)
-* 🎓 Majoring in Computer Science
+### What I'm building right now
+**[Nexyn](https://nexyn.net)**: Server-side software protection & licensing infrastructure.
+> A massive C++23 backend (Drogon, Postgres, Redis) that handles everything securely on our infra. Cloud-based binary security, control-flow obfuscation, and anti-debug/anti-VM, proprietary server-sided encryption methods for your software, and much more. The same backend manages DRM, secure API relays, and FIPS 140-2 compliance(and we comply to A LOT more).
 
-> "Security is not a product, but a process." — Bruce Schneier
-
-## 🔍 Featured Work
-| Repo | Description | Tech |
+### Open Source / Experiments
+| Repo | What it is | Tech |
 | :--- | :--- | :--- |
-| **aurora-sigma-aead** | Custom post-quantum encryption scheme stronger than AES-256. | C / Crypto |
-| **exception-based-comms** | High-performance Windows IPC using exception handling. | Windows Internals |
-| **synack** | Great example of a C++ server framework with proper encryption. | C++ / Networking |
-
-<h2 align="center">📊 Stats</h2>
-
-<div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Smellon69?theme=dark" height="180" alt="GitHub Stats" />
-</div>
-
----
-
-*Choice. The problem is choice.*
+| **aurora-sigma-aead** | Playing around with post-quantum cryptography. | C / Crypto |
+| **exception-based-comms** | Abusing Windows exception handling for high-speed IPC. | Windows Internals |
+| **synack** | Custom C++ server framework with encrypted tunneling. | C++ / Networking |
